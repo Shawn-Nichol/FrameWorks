@@ -6,7 +6,7 @@ It covers several branches, but we only care about Cybersecurity here.
 Cybersecurity: NIST is known for developing cybersecurity standards and guidelines, including the NIST Cybersecurity Framework, which helps organizations manage and reduce cybersecurity risk. 
 
 
-## Frame Work COmponents
+## Frame Work Components
 The framework consists of three main components
 
 1. Framework Core:
