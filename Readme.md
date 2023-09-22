@@ -14,11 +14,13 @@ The core is a set of desired cybersecurity activities and outcomes organized int
 
 ![image](https://github.com/Shawn-Nichol/FrameWorks/assets/30714313/ed777acd-f502-4b89-b9b4-272c5461f124)
 
-Subcategories
+Subcategories </br>
 ![image](https://github.com/Shawn-Nichol/FrameWorks/assets/30714313/7ab6f901-f7f7-4ed5-816f-5c772fafe7ec)
 
+
 2. Framework Implementation Tiers
-Tiers describe the degree to which an organization's cybersecurity risk management practices exhibit the characteristics defined in the framework. The tiers range from partial to adaptive and describe an increasing degree of rigor, how well-integrated cybersecurity risk decisions are into broader risk decisions, and the degree to which the organization shares and receives cybersecurity info from external parties. 
+Tiers describe the degree to which an organization's cybersecurity risk management practices exhibit the characteristics defined in the framework. The tiers range from partial to adaptive and describe an increasing degree of rigor, how well-integrated cybersecurity risk decisions are into broader risk decisions, and the degree to which the organization shares and receives cybersecurity info from external parties. </br>
+
 ![image](https://github.com/Shawn-Nichol/FrameWorks/assets/30714313/8a02f996-3983-4081-b2a5-89be15c6f610)
 
 
@@ -82,4 +84,4 @@ Profiles are an organization's unique alignment of its organizational requiremen
 
 10. Special Publication 800-207: This document discusses zero trust architecture, a security concept focused on continuous verification and least privilege access. 
 
-11. 
+
