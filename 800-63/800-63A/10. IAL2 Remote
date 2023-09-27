@@ -1,0 +1,21 @@
+**A.10 IAL2 Remote Identity Proofing**
+
+This section of SP 800-63A Implementation Resources discusses remote identity proofing at IAL2 (Identity Assurance Level 2). It acknowledges the challenges of verifying identity remotely and the need for a balance between convenience and security. There are two methods of remote identity proofing defined:
+
+1. **Conventional Remote Identity Proofing**: This involves the applicant using their own hardware (e.g., a webcam) to complete the proofing process, typically capturing images of themselves and their identity documents.
+
+2. **Supervised Remote Identity Proofing**: This method aims to provide the same level of confidence and security as in-person IAL3 identity proofing. It requires specialized equipment deployed to a remote location and specific controls and requirements.
+
+- **Identity Resolution (A.10.1)**: This step begins with the applicant providing attribute information and one to three forms of identity evidence. Knowledge-based verification (KBV) may be used in rare cases to resolve ambiguities.
+
+- **Identity Evidence Collection (A.10.1.1)**: IAL2 accepts several combinations of evidence quality, including one piece of superior or strong evidence, two pieces of strong evidence, or one strong plus two fair evidence pieces. Superior or strong evidence should be issued through a strong identity-proofing process and validated by the CSP.
+
+- **Identity Validation (A.10.2)**: This step aims to confirm the authenticity, integrity, and accuracy of collected identity evidence. It involves examining the evidence for completeness, tampering, or counterfeit detection and confirmation of security features.
+
+- **Evidence Information Validation (A.10.3)**: This step validates the correctness of information from identity evidence against the issuing or authoritative source. It applies to evidence validation at the strong and superior strengths.
+
+- **Identity Binding Verification (A.10.3.1)**: Verification ensures that the validated identity evidence refers to the applicant. It can be done through physical comparison or biometric comparison, including liveness detection. KBV can be used for verification of binding to fair-level evidence but not as the sole form of verification.
+
+- **Remote Identity Proofing Address Confirmation**: In remote identity proofing, an enrollment code must be sent to a validated address for the applicant, which may be a postal address, SMS address, or email address. Specific validity periods apply to these codes.
+
+This information provides guidance for conducting identity proofing remotely at IAL2, balancing convenience and security while ensuring the binding of identity evidence to the applicant's real-world identity.
