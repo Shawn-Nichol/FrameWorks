@@ -29,6 +29,53 @@ Establish a process for obtaining access to the organization-defined information
 - Example: New employees should request access through a web-based portal, which triggers a workflow for approval by the employee's supervisor and IT department.
 - Recommended Practice: Automate access request workflows to minimize delays in provisioning access for new employees. Regularly update access permissions based on changes in job roles.
 
+## AC-2: Account Managment
+
+### AC-2(1)
+Assigned an account manager
+
+- Example: Designate the IT security officer as the account manager responsible for overseeing user accounts and access permissions
+- Recommend Practice: Implement regular meetings between account managers and system administrators to review account status, ensuring timely deactivation of accounts for departing employees.
+
+### AC-2(2)
+Monitor the use of temporary accounts
+
+- Example: Temporary accounts created for external contractors should have a predefined expiration date and are automatically disabled after project completion.
+- Recommended Practice: Implement an automated system to monitor temporary accounts, ensuring they are deactivated promptly upon project completion or contract expiration.
+
+### AC-2(3)
+Enforce password complexity and change requirements
+
+- Example: Passwords must be at least 12 characters long, including uppercase and lowercase letters, numbers, and special characters. Users are required to change their passwords every 60 days.
+- Recommended Practice: Implement multi-factor authentication in addition to strong password policies to enhance security. Encourage the use of passphrases, which are easier for users to remember and can be more secure.
+
+
+## AC-3 Access Enforcement
+
+### AC-3(1)
+Enforce access restrictions associated with changes to the system's configuration in accordance with organizational policies and procedures. 
+
+- Example: Access restrictions are automatically applied whenever system configurations are modified or updated. Any unauthorized changes trigger immediate alerts to system administrators.
+- Recommended Practice: Implement role-based access control (RBAC) to streamline access permissions management. Regularly review and update roles to reflect organizational changes.
+
+These examples and recommended practices provide a foundation for organizations to implement robust access control mechanisms, ensuring secure and authorized access to information systems while minimizing the risk of unauthorized access or data breaches. 
+
+
+## AC-4 Information Flow Enforcement
+
+### AC-4(1) 
+Implement information flow control mechanisms.
+
+- Example: Information flow control mechanisms are in place to prevent sensitive data from being transmitted outside the organization's network without proper encryption and authorization.
+- Recommended Practice: Regularly monitor network traffic for data leaks and implement data loss prevention (DLP) solutions to prevent unauthorized information flow. 
+
+
+
+
+
+
+
+
 
 
 
